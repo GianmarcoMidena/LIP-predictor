@@ -1,4 +1,4 @@
-# Identification of Linear Interacting Peptides in protein structures (PDBs).
+# Identification of Linear Interacting Peptides in protein structures (PDBs)
 
 ## Theoretical overview
 Linear Interacting Peptides (LIPs) are intrinsically disordered regions (IDRs) that fold 
