@@ -197,6 +197,3 @@ In our specific case, a group corresponds to a pdb, identified by a structure id
 The stacking Cross-Validation algorithm can be summarized as follows:
 
 ![stacking cv algorithm](resources/images/stacking_cv_algorithm.png)
-
-## Authors
-* Gianmarco Midena
